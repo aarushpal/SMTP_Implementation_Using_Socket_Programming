@@ -1,7 +1,7 @@
 # Author Details
 
 - **Aarush Pal**
-- **Aditya Goel**
+- **Aditya Goyall**
 - **Course** : Computer Networks | University 5th semester project
 - **Organization** : Manipal Institute of Technology, Manipal
 
